@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  espresso_options: MyString
+  milk: MyString
+  pick_up_time: 2025-08-07 13:44:22
+
+two:
+  type: 
+  espresso_options: MyString
+  milk: MyString
+  pick_up_time: 2025-08-07 13:44:22
